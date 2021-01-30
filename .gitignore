@@ -6,6 +6,7 @@ test/
 !**/src/main/**
 !**/src/test/**
 !docs/**
+./config/header.yml
 
 ### STS ###
 .apt_generated
